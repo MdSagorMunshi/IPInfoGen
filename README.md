@@ -24,13 +24,27 @@ IPInfoGen is a Python script that provides information about a given IP address.
 
 ## Instalation
 
+- Linux/Debian
 ````
-git clone https://github.com/your-username/IPInfoGen.git 
+git clone https://github.com/MdSagorMunshi/IPInfoGen.git 
+cd IPInfoGen
+sudo python3 setup.py install
+````
+- Windows
+````
+git clone https://github.com/MdSagorMunshi/IPInfoGen.git 
+cd IPInfoGen
+python3 setup.py install
+````
+- Termux
+````
+git clone https://github.com/MdSagorMunshi/IPInfoGen.git 
 cd IPInfoGen
 python setup.py install
 ````
-
 ## Usage
+
+Type on your Terminal: ````IPInfoGen````
 
 - Follow the on-screen instructions to enter the target IP address.
 

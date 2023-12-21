@@ -54,6 +54,7 @@ Type on your Terminal: ````IPInfoGen````
 cd /path/IPInfoGen/ **/home/ryan/Desktop/IPInfoGen
 python setup.py uninstall
 ````
+** Use sudo in Linux/Debian
 
 
 ## Dependencies
